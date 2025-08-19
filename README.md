@@ -1,7 +1,7 @@
 # Emoções CLI LangChain
 
 
-![Demonstração](assets/demo.gif)
+![Demonstração](gif.gif)
 
 
 Este projeto é um experimento, feito para praticar o uso de **LangChain**, e **Textual** no desenvolvimento de uma interface simples em Python.
