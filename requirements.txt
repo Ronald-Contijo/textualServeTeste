@@ -1,0 +1,4 @@
+langchain>=0.2.0
+langchain-openai>=0.1.0
+textual>=0.76.0
+rich>=13.7.0
